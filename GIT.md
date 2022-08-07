@@ -158,5 +158,7 @@ git push md master
 ```shell
 #生成ssh
 ssh-keygen -t rsa -C ClemXing
+
+git push git@github.com:ClemXing/md-doc.git master
 ```
 
